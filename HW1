@@ -1,0 +1,8 @@
+echo "# 01-practice-git-yuz19064" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/statcomputing/01-practice-git-yuz19064.git
+git push -u origin master
+                
